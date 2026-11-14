@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Maths Racer",
+  "description": "A fast, streamlined 3-lane highway math racing game built in React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
